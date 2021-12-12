@@ -19,10 +19,10 @@ Search open opportunities to put your skills and career goals to work for you an
 <Section>
 
 
-# Open positions
+# [Open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence)
 
 We always look for the new colleagues which could help us both in research and engineering tasks. 
 
-Click [here](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for the list of the currently open positions.
-But if you do not get the job specification you look for do not hessitate to get in tuch with us anyway.
+The [list of the currently open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) is available for your selection.
+But if you do not get the job specification you look for please do not hessitate to get in tuch with us anyway.
 </Section>

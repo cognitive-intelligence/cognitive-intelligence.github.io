@@ -10,15 +10,18 @@ layout: page
     import Banner from '../lib/Banner.svelte';
 </script>
 
+
 <Banner img="img/banner-about.jpg">
 
 ### About us
 
-We are part of Cisco Secure. We take bold steps to shape the security of tomorrow, making an impact for years to come.
+Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cybersecurity company in the world. We are developing complex systems for cyber threats detection using Machine learning and Artificial intelligence.
 
 <div>
     <CardButton filled={true} href="#/about">Prague Team</CardButton>
 </div>
+
+[Login](https://cognitive.cisco.com/CWSP/ctaLogin?error=invalidSession&originalUrl=%2Fui) to Global Threat Alerts.
 
 </Banner>
 
