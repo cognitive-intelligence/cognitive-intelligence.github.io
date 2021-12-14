@@ -8,8 +8,16 @@ layout: page
     import CardButton from '../lib/CardButton.svelte';
     import Section from '../lib/Section.svelte';
     import Banner from '../lib/Banner.svelte';
+    import GtaLogin from '../lib/GtaLogin.svelte';
 </script>
 
+<GtaLogin>
+
+Cisco Global Threat Alerts
+
+[Login](https://cognitive.cisco.com/CWSP/ctaLogin)
+
+</GtaLogin>
 
 <Banner img="img/banner-about.jpg">
 
@@ -20,8 +28,6 @@ Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cyb
 <div>
     <CardButton filled={true} href="#/about">Prague Team</CardButton>
 </div>
-
-[Login](https://cognitive.cisco.com/CWSP/ctaLogin?error=invalidSession&originalUrl=%2Fui) to Global Threat Alerts.
 
 </Banner>
 
