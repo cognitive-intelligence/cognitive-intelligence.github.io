@@ -50,6 +50,8 @@ We list here google scholars of our employees and collaborators. Not all the pap
 
 [Pavel Prochazka](https://scholar.google.com/citations?user=PkEDqOkAAAAJ&hl=en&oi=sra)
 
+[David Sislak](https://scholar.google.com/citations?hl=en&user=8AgDWeUAAAAJ)
+
 [Cenek Skarda](https://scholar.google.com/citations?user=53rSDgsAAAAJ&hl=en)
 </Section>
 
