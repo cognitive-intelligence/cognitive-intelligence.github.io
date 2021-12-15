@@ -48,6 +48,8 @@ We list here google scholars of our employees and collaborators. Not all the pap
 
 [Tomáš Macek](https://scholar.google.com/citations?user=glC9LRYAAAAJ&hl=en)
 
+[Pavel Prochazka](https://scholar.google.com/citations?user=PkEDqOkAAAAJ&hl=en&oi=sra)
+
 [Cenek Skarda](https://scholar.google.com/citations?user=53rSDgsAAAAJ&hl=en)
 </Section>
 
