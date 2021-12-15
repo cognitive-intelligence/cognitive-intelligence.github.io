@@ -29,7 +29,7 @@ We use this section for referencing recent or the most hot papers.
 
 A framework for comprehensible multi-modal detection of cyber threats,
 J Kohout, Č Škarda, K Shcherbin, M Kopp, J Brabec
-arXiv preprint arXiv:2111.05764
+[arXiv preprint arXiv:2111.05764](https://arxiv.org/abs/2111.05764)
 
 # Publications by team members
 We list here google scholars of our employees and collaborators. Not all the papers in the lists are necessairly relevant to work in Cisco. This is also not a list of all team members.
