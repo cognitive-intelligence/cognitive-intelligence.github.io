@@ -15,45 +15,30 @@ Cisco is proud to contribute to research across the industry.
 
 </Banner>
 
+
+
 <Section>
 
 # Featured papers
 
-##### We use this section for referencing recent or the most hot papers.
+- [A framework for comprehensible multi-modal detection of cyber threats](https://arxiv.org/abs/2111.05764)
+- [Learning Explainable Representations of Malware Behavior](https://arxiv.org/abs/2111.05764)
+- [Anomaly explanation with random forests](https://arxiv.org/abs/2111.05764)
+- [Classification Methods for Internet Applications](https://arxiv.org/abs/2111.05764)
+- [Learning communication patterns for malware discovery in HTTPs data](https://arxiv.org/abs/2111.05764)
+- [Bad practices in evaluation methodology relevant to class-imbalanced problems](https://arxiv.org/abs/2111.05764)
+- [Network traffic fingerprinting based on approximated kernel two-sample test](https://arxiv.org/abs/2111.05764)
+- [Decision forests in the task of semi-supervised learning](https://arxiv.org/abs/2111.05764)
+- [Malicons: Detecting payload in favicons](https://arxiv.org/abs/2111.05764)
+- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://arxiv.org/abs/2111.05764)
 
 
-Kohout, J., Škarda, Č., Shcherbin, K., Kopp, M., & Brabec, J. (2021). **A framework for comprehensible multi-modal detection of cyber threats.** arXiv preprint arXiv:2111.05764. 
-[pdf](https://arxiv.org/abs/2111.05764)
+</Section>
 
-Prasse, P., Brabec, J., Kohout, J., Kopp, M., Bajer, L., Scheffer, T. (2021). **Learning Explainable Representations of Malware Behavior.** _Joint European Conference on Machine Learning and Knowledge Discovery in Databases_, 53-68. 
-[pdf](https://www.uni-potsdam.de/fileadmin/projects/cs-ml/media/prasse_ecml2021_preprint.pdf)
 
-Kopp, M., Pevný, T., & Holeňa, M. (2020). **Anomaly explanation with random forests.** _Expert Systems with Applications_, 149, 113187.
-Holeňa, M., Pulc, P., & Kopp, M. (2020). **Classification Methods for Internet Applications.** _Springer International Publishing_.
+<Section gray={true}>
 
-Kohout, J., Komárek, T., Čech, P., Bodnár, J., & Lokoč, J. (2018). **Learning communication patterns for malware discovery in HTTPs data.** _Expert Systems with Applications_, 101, 129-142.
-
-Brabec, J., & Machlica, L. (2018). **Bad practices in evaluation methodology relevant to class-imbalanced problems.** arXiv preprint arXiv:1812.01388. 
-[pdf](https://arxiv.org/pdf/1812.01388)
-
-Kohout, J., & Pevný, T. (2017). **Network traffic fingerprinting based on approximated kernel two-sample test.** _IEEE Transactions on Information Forensics and Security_, 13(3), 788-801.
-[pdf](https://www.researchgate.net/profile/Tomas-Pevny/publication/320723911_Network_Traffic_Fingerprinting_Based_on_Approximated_Kernel_Two-Sample_Test/links/5bc85bc5299bf17a1c5b89e3/Network-Traffic-Fingerprinting-Based-on-Approximated-Kernel-Two-Sample-Test.pdf)
-
-Brabec, J. (2017). **Decision forests in the task of semi-supervised learning.** Czech Technical University in Prague.
-[pdf](https://core.ac.uk/download/pdf/81646683.pdf)
-
-Pevný, T., Kopp, M., Křoustek, J., & Ker, A. D. (2016). **Malicons: Detecting payload in favicons.** _Electronic Imaging_, 2016(8), 1-9.
-
-Čech, P., Kohout, J., Lokoč, J., Komárek, T., Maroušek, J., & Pevný, T. (2016, October). **Feature extraction and malware detection on large HTTPS data using MapReduce.** _In International Conference on Similarity Search and Applications_ (pp. 311-324). Springer, Cham.
-
-# Cisco Cognitive Intelligence Google scholar
-
-##### If you are interested in deep diving to some of the public work we have done in past within Cisco Cognitive Intelligence, please have a look at the list of articles and patents in our
-
-[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
-
-# Publications by team members
-##### We list here google scholars of our employees and collaborators. Not all the papers in the lists are necessairly relevant to work in Cisco. This is also not a list of all team members.
+### Featured authors
 
 [Lukáš Bajer](https://scholar.google.com/citations?user=zJSjmUoAAAAJ&hl=en), 
 [Jan Brabec](https://scholar.google.com/citations?user=kertvGkAAAAJ&hl=en), 
@@ -65,5 +50,15 @@ Pevný, T., Kopp, M., Křoustek, J., & Ker, A. D. (2016). **Malicons: Detecting 
 [Pavel Prochazka](https://scholar.google.com/citations?user=PkEDqOkAAAAJ&hl=en&oi=sra),
 [David Sislak](https://scholar.google.com/citations?hl=en&user=8AgDWeUAAAAJ),
 [Cenek Skarda](https://scholar.google.com/citations?user=53rSDgsAAAAJ&hl=en)
+and [other team members](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
+
 </Section>
 
+
+<Section>
+
+If you are interested in deep diving to some of the public work we have done in past within Cisco Cognitive Intelligence,
+please have a look at the list of articles and patents in our
+[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
+
+</Section>
