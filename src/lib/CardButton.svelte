@@ -1,6 +1,6 @@
 <script>
   export let filled = false;
-  export let href;
+  export let href = null;
 </script>
 
 {#if href}
