@@ -21,17 +21,19 @@ Cisco is proud to contribute to research across the industry.
 
 # Featured papers
 
-- [A framework for comprehensible multi-modal detection of cyber threats](https://arxiv.org/abs/2111.05764)
-- [Learning Explainable Representations of Malware Behavior](https://arxiv.org/abs/2111.05764)
-- [Anomaly explanation with random forests](https://arxiv.org/abs/2111.05764)
-- [Classification Methods for Internet Applications](https://arxiv.org/abs/2111.05764)
-- [Learning communication patterns for malware discovery in HTTPs data](https://arxiv.org/abs/2111.05764)
-- [Bad practices in evaluation methodology relevant to class-imbalanced problems](https://arxiv.org/abs/2111.05764)
-- [Network traffic fingerprinting based on approximated kernel two-sample test](https://arxiv.org/abs/2111.05764)
-- [Decision forests in the task of semi-supervised learning](https://arxiv.org/abs/2111.05764)
-- [Malicons: Detecting payload in favicons](https://arxiv.org/abs/2111.05764)
-- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://arxiv.org/abs/2111.05764)
+- [A framework for comprehensible multi-modal detection of cyber threats](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Learning Explainable Representations of Malware Behavior](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Anomaly explanation with random forests](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Classification Methods for Internet Applications](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Learning communication patterns for malware discovery in HTTPs data](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Bad practices in evaluation methodology relevant to class-imbalanced problems](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Network traffic fingerprinting based on approximated kernel two-sample test](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Decision forests in the task of semi-supervised learning](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Malicons: Detecting payload in favicons](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
+- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
 
+
+_sem si dopln vysvetlujici text pokud neni treba tak to smaz_
 
 </Section>
 
@@ -51,6 +53,8 @@ Cisco is proud to contribute to research across the industry.
 [David Sislak](https://scholar.google.com/citations?hl=en&user=8AgDWeUAAAAJ),
 [Cenek Skarda](https://scholar.google.com/citations?user=53rSDgsAAAAJ&hl=en)
 and [other team members](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
+
+_sem si dopln vysvetlujici text pokud neni treba tak to smaz_
 
 </Section>
 
