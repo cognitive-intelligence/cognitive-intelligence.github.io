@@ -19,7 +19,7 @@ Search open opportunities to put your skills and career goals to work for you an
 <Section>
 
 
-# [Open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence)
+# Open positions
 
 We always look for the new colleagues which could help us both in research and engineering tasks. 
 
