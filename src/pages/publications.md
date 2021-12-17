@@ -16,31 +16,27 @@ Cisco is proud to contribute to research across the industry.
 </Banner>
 
 
-
 <Section>
 
 # Featured papers
 
-- [A framework for comprehensible multi-modal detection of cyber threats](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Learning Explainable Representations of Malware Behavior](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Anomaly explanation with random forests](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Classification Methods for Internet Applications](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Learning communication patterns for malware discovery in HTTPs data](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Bad practices in evaluation methodology relevant to class-imbalanced problems](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Network traffic fingerprinting based on approximated kernel two-sample test](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Decision forests in the task of semi-supervised learning](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Malicons: Detecting payload in favicons](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://arxiv.org/abs/2111.05764)<br/>_2021, nazev konference lorem ipsum_
-
-
-_sem si dopln vysvetlujici text pokud neni treba tak to smaz_
+- [A framework for comprehensible multi-modal detection of cyber threats](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:_Qo2XoVZTnwC)<br/>_2021, arXiv_
+- [Learning Explainable Representations of Malware Behavior](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:0EnyYjriUFMC)<br/>_2021, ECML PKDD 2021_
+- [Explainable Multiple Instance Learning with Instance Selection Randomized Trees](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:JV2RwH3_ST0C)<br/>_2021, ECML PKDD 2021_
+- [On Model Evaluation Under Non-constant Class Imbalance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&cstart=20&pagesize=80&citation_for_view=aI49tUEAAAAJ:hMod-77fHWUC)<br/>_2020, ICCS_
+- [Anomaly explanation with random forests](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:dhFuZR0502QC)<br/>_2020, Expert Systems with Applications_
+- [Classification Methods for Internet Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:_kc_bZDykSQC)<br/>_2020, Springer_
+- [Learning communication patterns for malware discovery in HTTPs data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:KxtntwgDAa4C)<br/>_2018, Expert Systems with Applications_
+- [Network traffic fingerprinting based on approximated kernel two-sample test](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:b0M2c_1WBrUC)<br/>_2017, IEEE Transactions on Information Forensics and Security_
+- [Malicons: Detecting payload in favicons](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:ULOm3_A8WrAC)<br/>_2017, Electronic Imaging_
+- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:nb7KW1ujOQ8C)<br/>_2016, Springer, Cham_
 
 </Section>
 
 
 <Section gray={true}>
 
-### Featured authors
+## Featured authors
 
 [Lukáš Bajer](https://scholar.google.com/citations?user=zJSjmUoAAAAJ&hl=en), 
 [Jan Brabec](https://scholar.google.com/citations?user=kertvGkAAAAJ&hl=en), 
@@ -52,17 +48,15 @@ _sem si dopln vysvetlujici text pokud neni treba tak to smaz_
 [Pavel Prochazka](https://scholar.google.com/citations?user=PkEDqOkAAAAJ&hl=en&oi=sra),
 [David Sislak](https://scholar.google.com/citations?hl=en&user=8AgDWeUAAAAJ),
 [Cenek Skarda](https://scholar.google.com/citations?user=53rSDgsAAAAJ&hl=en)
-and [other team members](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
 
-_sem si dopln vysvetlujici text pokud neni treba tak to smaz_
-
+ _The links above are maintained by authors currently affiliated with Cisco Cognitive Intelligence. It contains also publications conceived outside of Cisco._ 
 </Section>
 
 
 <Section>
 
-If you are interested in deep diving to some of the public work we have done in past within Cisco Cognitive Intelligence,
+If you are interested in deep diving to some of the public work we have done in the past within Cisco Cognitive Intelligence,
 please have a look at the list of articles and patents in our
-[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate)
+[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate). The list summarizes the papers authored in affiliation with Cisco Cognitive Intelligence.
 
 </Section>
