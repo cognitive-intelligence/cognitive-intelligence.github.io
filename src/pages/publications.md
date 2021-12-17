@@ -29,7 +29,7 @@ Cisco is proud to contribute to research across the industry.
 - [Learning communication patterns for malware discovery in HTTPs data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:KxtntwgDAa4C)<br/>_2018, Expert Systems with Applications_
 - [Network traffic fingerprinting based on approximated kernel two-sample test](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:b0M2c_1WBrUC)<br/>_2017, IEEE Transactions on Information Forensics and Security_
 - [Malicons: Detecting payload in favicons](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:ULOm3_A8WrAC)<br/>_2017, Electronic Imaging_
-- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:nb7KW1ujOQ8C)<br/>_2016, Springer, Cham_
+- [Feature extraction and malware detection on large HTTPS data using MapReduce](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aI49tUEAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=aI49tUEAAAAJ:nb7KW1ujOQ8C)<br/>_2016, SISAP_
 
 </Section>
 
