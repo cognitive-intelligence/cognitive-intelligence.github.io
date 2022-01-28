@@ -34,6 +34,18 @@ Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cyb
 
 <Cards>
 
+<Card img="img/card-0.jpg" href="#/news">
+
+### News
+
+There is always something new happening.
+Check what is cooking.
+
+<CardButton>What's new</CardButton>
+
+</Card>
+
+
 <Card img="img/card-2.jpg" href="#/jobs">
 
 ### Put your talent to work
