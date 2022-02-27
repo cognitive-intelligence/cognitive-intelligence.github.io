@@ -12,7 +12,7 @@ layout: page
 ### News
 
 There is always something new happening.
-Check what is cooking.
+Check what is new.
 
 </Banner>
 
