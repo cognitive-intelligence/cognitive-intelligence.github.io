@@ -12,7 +12,7 @@ layout: page
 ### News
 
 There is always something new happening at Cisco Cogniive Intelligence.
-Check here for the recent updates. For technical posts please look also at the Cisco Cognitive Intelligence blog posts.
+Check here for the recent updates. 
 
 </Banner>
 
@@ -20,6 +20,8 @@ Check here for the recent updates. For technical posts please look also at the C
 
 
 # The latest updates from Cisco Cognitive Inteligence
+
+For technical news please look also at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence).
 
 ### New open positions
 Cisco Cognitive Intelligence announced recently one more open position for software engineer. We are extending our team and we are currently looking for an experienced Software Engineer to work with us. If you share our passion for technology innovation and have experience in developing modern distributed scalable cloud systems we look forward to receiving your application and CV. 
