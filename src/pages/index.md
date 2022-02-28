@@ -38,8 +38,8 @@ Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cyb
 
 ### News
 
-There is always something new happening.
-Check what is new.
+There is always something new happening at Cisco Cogniive Intelligence.
+Check here for the recent updates.
 
 <CardButton>What's new</CardButton>
 
