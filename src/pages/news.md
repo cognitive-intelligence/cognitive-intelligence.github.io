@@ -24,22 +24,22 @@ Check here for the recent updates.
 For technical news please look also at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence).
 
 ### New open positions
-Cisco Cognitive Intelligence announced recently several new open positions. We look for Senior Threat researcher, Product Owner and Java Software Engineer. We are extending our team and we are looking for new colleagues to work with us. If you share our passion for technology and innovation, we look forward to hearing from you. 
-Please check the link for more [details](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence).
+Cisco Cognitive Intelligence announced recently several new open positions. We look for Senior Threat Researcher, Product Owner and Java Software Engineer. We are extending our team and we are looking for new colleagues to work with us. If you share our passion for technology and innovation, we look forward to hearing from you. 
+Please check the [job posting site](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for more details.
 
 ### Company Day at Matfyz
 April 27, 2022 we enjoyed meeting with the students of MatFyz, Charles University. See [katalog Den Firem](https://dnyfirem.matfyz.cz/katalog) for Cisco presentation. Cisco Cognitive Intelligence team and Charles University are partners for many years, and we have supervised numerous theses of Matfyz students. We offer topics both from software engineering and research domains. See [section for students](https://cognitive-intelligence.github.io/cognitive-web/#/students) for more details about the proposed topics.
 
 ### March Release notes published
 March 2022 release notes for Global Threat Alerts in Secure Endpoint 
-[has been published](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_mar-2022.html). Please read more about new detections of Cyclops Blink, FormBook, Gamaredon, MuddyWater.
+[has been published](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_mar-2022.html). Please read more about new detections of Cyclops Blink, FormBook, Gamaredon and MuddyWater.
 
 ### We support Czechitas
 We are proud to [announce](https://www.cisco.com/c/cs_cz/training-events/appdynamics/support-czechitas.html) our partnership with Czechitas! In Cisco we believe in diversity, and power of education. As a global IT company, we want to support all who wish to develop their knowledge and skills in this area. [Read more about Czechitas.](https://www.czechitas.cz/en/about-czechitas).
 
-Cognitive Intelligence team is attending next virtual Czechitas job-fair together with our colleagues from Cisco AppDynamics. We look forward to seeing you there both as virtual avatars and teleconferencing.
+Cognitive Intelligence team is attending next virtual Czechitas job-fair together with our colleagues from Cisco AppDynamics. We look forward to seeing you there both as virtual avatars and as real people in teleconference.
 
-The first mentors from our teams started also to work with Czechitas students, and we will participate in the evaluation committee.
+The first mentors from our teams started also to work with Czechitas students. We will participate also in the evaluation committee.
 
 ### We support Machine Learning Prague
 As being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. ML Prague is the biggest European conference about ML AI and Deep Learning.
