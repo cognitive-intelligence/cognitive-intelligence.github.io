@@ -71,6 +71,20 @@ that’s shaping how the future works.
 
 </Card>
 
+
+<Card img="img/card-6.jpg" href="https://blogs.cisco.com/tag/cognitive-intelligence">
+
+### Cognitive Intelligence Blog
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+#### Updated May 1, 2022
+
+<CardButton>Get inside</CardButton>
+
+</Card>
+
+
 <Card img="img/card-5.jpg" href="#/publications">
 
 ### Selected publications
