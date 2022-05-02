@@ -1,7 +1,3 @@
-<script>
-  export let href = null;
-</script>
-
 <div>
   <slot />
 </div>
