@@ -28,9 +28,9 @@ Cisco Cognitive Intelligence announced recently several new open positions. We l
 Please check the [job posting site](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for more details.
 
 ### Company Day at Matfyz
-April 27, 2022 we enjoyed meeting with the students of MatFyz, Charles University. See [katalog Den Firem](https://dnyfirem.matfyz.cz/katalog) for Cisco presentation. Cisco Cognitive Intelligence team and Charles University are partners for many years, and we have supervised numerous theses of Matfyz students. We offer topics both from software engineering and research domains. See [section for students](https://cognitive-intelligence.github.io/cognitive-web/#/students) for more details about the proposed topics.
+In April 27, 2022 we enjoyed meeting with the students of MatFyz, Charles University. See [Den Firem](https://dnyfirem.matfyz.cz/katalog) for our introduction. Cisco Cognitive Intelligence team and Charles University are partners for many years. We have supervised numerous theses of Matfyz students here at Cognitive and several our colleagues are also from there. We offer student thesis topics both from software engineering and research domains. See [section for students](https://cognitive-intelligence.github.io/cognitive-web/#/students) for more details about the available topics.
 
-### March Release notes published
+### March Release Notes has been published
 March 2022 release notes for Global Threat Alerts in Secure Endpoint 
 [has been published](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_mar-2022.html). Please read more about new detections of Cyclops Blink, FormBook, Gamaredon and MuddyWater.
 
@@ -41,7 +41,7 @@ Cognitive Intelligence team is attending next virtual Czechitas job-fair togethe
 
 The first mentors from our teams started also to work with Czechitas students. We will participate also in the evaluation committee.
 
-### We support Machine Learning Prague
+### Machine Learning Prague
 As being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. ML Prague is the biggest European conference about ML AI and Deep Learning.
 It is planned this year for May 27 – 29, 2022 at La Fabrika, Prague. 
 [Read more about MLPrague.](https://www.mlprague.com/#partners)

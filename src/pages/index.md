@@ -51,7 +51,7 @@ Check here for the recent updates.
 
 <Card img="img/card-2.jpg" href="#/jobs">
 
-### Put your talent to work
+### Work opportunities
 
 Cisconians work hard — and we reward hard.
 We go beyond the usual benefits with surprising extras we think you'll love.
@@ -76,9 +76,8 @@ that’s shaping how the future works.
 
 ### Cognitive Intelligence Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Have a look what our colleagues are blogging about.
 
-#### Updated May 1, 2022
 
 <CardButton>Get inside</CardButton>
 
