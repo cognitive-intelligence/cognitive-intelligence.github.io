@@ -74,9 +74,9 @@ that’s shaping how the future works.
 
 <Card img="img/card-6.jpg" href="https://blogs.cisco.com/tag/cognitive-intelligence">
 
-### Cognitive Intelligence Blog
+### Blog
 
-Have a look what our colleagues are blogging about.
+Please have a look at what Cognitive Intelligence team is blogging about.
 
 
 <CardButton>Get inside</CardButton>
