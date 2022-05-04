@@ -21,10 +21,10 @@ Check here for the recent updates.
 
 # The latest updates from Cisco Cognitive Inteligence
 
-For technical news please look also at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence).
+For technical news please look also at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Please chck also nontechnical blobgs e.g. [about our Prague site ](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and [an experince of working there](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
 ### New open positions
-Cisco Cognitive Intelligence announced recently several new open positions. We look for Senior Threat Researcher, Product Owner and Java Software Engineer. We are extending our team and we are looking for new colleagues to work with us. If you share our passion for technology and innovation, we look forward to hearing from you. 
+Cisco Cognitive Intelligence announced recently several new open positions. We look for Senior Threat Researcher, Product Owner Technical lead and Java Software Engineer. We are extending our team and we are looking for new colleagues to work with us. If you share our passion for technology and innovation, we look forward to hearing from you. 
 Please check the [job posting site](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for more details.
 
 ### Company Day at Matfyz
