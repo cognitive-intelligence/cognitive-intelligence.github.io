@@ -14,4 +14,4 @@ layout: core
 [Linkedin](https://www.linkedin.com/feed/hashtag/ciscocognitive/)
 
 
-This Site is Copyright © 2021 Cisco and/or its affiliates. All rights reserved.
+This Site is Copyright © 2021-2022 Cisco and/or its affiliates. All rights reserved.
