@@ -10,14 +10,14 @@
     "clean": "rimraf dist"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "=1.0.0-next.42",
-    "gh-pages": "=3.2.3",
+    "@sveltejs/vite-plugin-svelte": "=1.0.0-next.43",
+    "gh-pages": "=4.0.0",
     "prettier": "=2.6.2",
     "prettier-plugin-svelte": "=2.7.0",
     "rimraf": "=3.0.2",
     "svelte": "=3.48.0",
     "svelte-preprocess": "=4.10.6",
-    "vite": "=2.9.6",
+    "vite": "=2.9.8",
     "mdsvex": "=0.10.5",
     "sass": "=1.51.0",
     "svelte-spa-router": "=3.2.0"
