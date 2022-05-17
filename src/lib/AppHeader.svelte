@@ -28,6 +28,7 @@
       <IconBlo />
     </a>
   </div>
+  <!-- svelte-ignore a11y-missing-attribute -->
   <a
     class="control"
     on:click|stopPropagation={() => (open = !open)}

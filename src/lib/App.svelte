@@ -16,6 +16,7 @@
   };
 </script>
 
+<!-- svelte-ignore a11y-missing-content -->
 <a name="top" />
 
 <Headroom on:pin={onPin} on:unpin={onUnpin} offset={60} tolerance={5}>
