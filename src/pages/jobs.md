@@ -24,5 +24,5 @@ Search open opportunities to put your skills and career goals to work for you an
 We always look for the new colleagues which could help us both in research and engineering tasks. 
 
 The [list of the currently open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) is available for your selection.
-But if you do not get the job specification you look for please do not hessitate to get in tuch with us anyway.
+But if you do not get the job specification you look for please do not hesitate to get in touch with us anyway.
 </Section>
