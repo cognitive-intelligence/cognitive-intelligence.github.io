@@ -11,41 +11,41 @@ layout: page
 
 ### News
 
-There is always something new happening at Cisco Cogniive Intelligence.
-Check here for the recent updates. 
+There's always something new happening at Cisco Cognitive Intelligence.
+Check here for recent updates. 
 
 </Banner>
 
 <Section>
 
-# The latest updates from Cisco Cognitive Inteligence
+# What's new at Cisco Cognitive Inteligence
 
-For technical news please look also at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Please check also nontechnical blogs e.g. about our [Prague site ](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experince of [working there](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
+For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working there](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
-### July Release Notes has been published
-July 2022 release notes for Global Threat Alerts in Secure Endpoint 
-[has been published](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_jul-2022.html). Please read more about new detections of Conti and REvil.
+### August release notes have been published
+The August 2022 release notes for Global Threat Alerts in Secure Endpoint have been 
+[published here](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_aug-2022.html). Please read more about the new detections, Conti and REvil.
 
 ### Machine Learning Prague
-As being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. Also this year you could meet us at Machine Learning Prague 2022 at May 27 – 29, 2022 at La Fabrika. ML Prague is the biggest European conference about ML AI and Deep Learning. 
-[Read more about MLPrague.](https://www.mlprague.com/#partners)
+Being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. This year you can meet us at Machine Learning Prague 2022 on May 27-29, 2022 at La Fabrika. Machine Learning Prague is the biggest European conference about machine learning AI and Deep Learning. Read more about 
+[Machine Learning Prague.](https://www.mlprague.com/#partners)
 
 ### New open positions
-Cisco Cognitive Intelligence announced recently several new open positions. We look for Senior Threat Researcher, Product Owner, Technical lead and Java Software Engineer. We are extending our team and we are looking for new colleagues to work with us. If you share our passion for technology and innovation, we look forward to hearing from you. 
-Please check the [job posting site](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for more details.
+We are expanding our team! Cisco Cognitive Intelligence recently announced several new open positions for Senior Threat Researcher, Product Owner, Technical Lead, and Java Software Engineer. If you share our passion for technology and innovation, we look forward to hearing from you. 
+Please check the [jobs site](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) for more details.
 
-### Company Day at Matfyz
-In April 27, 2022 we enjoyed meeting with the students of MatFyz, Charles University. See [Den Firem](https://dnyfirem.matfyz.cz/katalog) for our introduction. Cisco Cognitive Intelligence team and Charles University are partners for many years. We have supervised numerous theses of Matfyz students here at Cognitive and several our colleagues are also from there. We offer student thesis topics both from software engineering and research domains. See [section for students](https://cognitive-intelligence.github.io/cognitive-web/#/students) for more details about the available topics.
+### Company day at Matfyz
+On April 27, 2022, we enjoyed meeting with the students of MatFyz, Charles University. See [Den Firem](https://dnyfirem.matfyz.cz/katalog) for our introduction. The Cisco Cognitive Intelligence team and Charles University have been partners for many years. We have supervised numerous theses of Matfyz students and several of our colleagues are also from there. We offer student thesis topics both from software engineering and research domains. See the [student section](https://cognitive-intelligence.github.io/cognitive-web/#/students) for details about the available topics.
 
 ### We support Czechitas
-We are proud to [announce](https://www.cisco.com/c/cs_cz/training-events/appdynamics/support-czechitas.html) our partnership with Czechitas! In Cisco we believe in diversity, and power of education. As a global IT company, we want to support all who wish to develop their knowledge and skills in this area. [Read more about Czechitas.](https://www.czechitas.cz/en/about-czechitas).
+We are proud to [announce our partnership](https://www.cisco.com/c/cs_cz/training-events/appdynamics/support-czechitas.html) with Czechitas! We believe in diversity and the power of education. As a global IT company, we want to support all who wish to develop their knowledge and skills in this area. Read more [about Czechitas](https://www.czechitas.cz/en/about-czechitas).
 
-Cognitive Intelligence team is attending next virtual Czechitas job-fair together with our colleagues from Cisco AppDynamics. We look forward to seeing you there both as virtual avatars and as real people in teleconference.
+The Cognitive Intelligence team is attending the next virtual Czechitas job fair, together with our colleagues from Cisco AppDynamics. We look forward to seeing you there, both as virtual avatars and as real people in a teleconference.
 
-The first mentors from our teams started also to work with Czechitas students. We will participate also in the evaluation committee.
+The first mentors from our team have started working with Czechitas students. We will also participate in the evaluation committee.
 
 ### Devopsdays Prague
-Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Cisco Cogniive is proud sponzor of [Devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) planned for May 24 - 25, 2022 at the City Conference Center (KCC), Prague, Czech Republic
+Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Cisco Cognitive Intelligence is a proud sponzor of [Devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/), planned for May 24-25, 2022 at the City Conference Center (KCC), Prague, Czech Republic.
 
 
 </Section>

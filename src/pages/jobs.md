@@ -9,10 +9,10 @@ layout: page
 
 <Banner img="img/banner-jobs.jpg">
 
-### Find Your Fit. Make Your Mark.
+### Find your fit and make your mark
 
 Finding the right fit for the right people makes Cisco stronger and helps us work better together.
-Search open opportunities to put your skills and career goals to work for you and Cisco.
+Search open opportunities and put your skills and career goals to work for you and Cisco.
 
 </Banner>
 
@@ -21,8 +21,8 @@ Search open opportunities to put your skills and career goals to work for you an
 
 # Open positions
 
-We always look for the new colleagues which could help us both in research and engineering tasks. 
+We're always looking for new colleagues to help with research and engineering tasks. 
 
-The [list of the currently open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) is available for your selection.
-But if you do not get the job specification you look for please do not hesitate to get in touch with us anyway.
+The [list of open positions](https://jobs.cisco.com/jobs/SearchJobs/cognitiveintelligence) is available for your selection.
+If you don't find the job specification you're looking for, please contact us.
 </Section>

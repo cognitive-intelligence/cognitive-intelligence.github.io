@@ -11,7 +11,7 @@ layout: page
 
 ### Selected Publications
 
-Cisco is proud to contribute to research across the industry.
+Cisco is proud to contribute research across the industry.
 
 </Banner>
 
@@ -55,8 +55,7 @@ Cisco is proud to contribute to research across the industry.
 
 <Section>
 
-If you are interested in deep diving to some of the public work we have done in the past within Cisco Cognitive Intelligence,
-please have a look at the list of articles and patents in our
-[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate). The list summarizes the papers authored in affiliation with Cisco Cognitive Intelligence.
+If you are interested in diving into some of the public work we have done in the past, continue to the list of articles and patents in our
+[Cisco Cognitive Intelligence Google scholar](https://scholar.google.com/citations?hl=en&user=aI49tUEAAAAJ&view_op=list_works&sortby=pubdate), which summarizes the papers authored in affiliation with Cisco Cognitive Intelligence.
 
 </Section>

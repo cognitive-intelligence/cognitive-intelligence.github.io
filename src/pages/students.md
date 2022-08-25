@@ -13,25 +13,24 @@ layout: page
 
 An incredible opportunity is waiting for you.
 Technology is changing the world by connecting billions of devices
-and improving how we live, work, play and treat our planet.
-Are you ready to change your life, and possibly make the world a better place?
+and improving how we live, work, play, and treat our planet.
+Are you ready to change your life and make the world a better place?
 
 </Banner>
 
 <Section>
 
-# Universities and Students
+# Universities and students
 
-We have been working with universities, and students at Cisco Cognitive for many years. We have started at the university as COSE - Cognitive Security startup, before being acquired by Cisco in 2013. 
-Character of our work requires continuous improvements. We have many engagements with universities in the country as well as with other research institutions. We have, but we also need people with a strong theoretical background, with AI and Machine learning skills, with data processing skills. Our large research team keeps working on new technologies to improve our threat detections. There are always interesting research topics to work on. But there are also interesting engineering tasks as well.
+We have been working with universities and students for many years. We started at the university as COSE - Cognitive Security startup, before being acquired by Cisco in 2013. The character of our work requires continuous improvements. We have many engagements with universities here as well as other research institutions. Our large research team is working on new technologies to improve our threat detections. We need people with a strong theoretical background as well as AI, machine learning, and data processing skills. There are always interesting research topics and engineering tasks to work on.
 
-Every year we propose a list of topics for MSc and BSc thesis for students. The collaboration with students typically starts with student projects. When both parties find the collaboration interesting, the student typically continues as part time employee. Many of the former students are now also our colleagues. 
+Every year we propose a list of topics for MSc and BSc thesis for students. The collaboration with students typically starts with student projects. When both parties find the collaboration interesting, the student typically continues as a part-time Cisco employee. Many former students are now our colleagues at Cisco.
 
-In general, if one wants to finish the theses with minimal effort, this is not right way to go. But if you want to work on an interesting and challenging task, learn practical skills, this is great start of your career.
+Generally, if one wants to finish the thesis with minimal effort, this would not be the right way to go. But if you want to work on an interesting and challenging task while learning practical skills, this would be a great start to your career!
 
-List of the current topics with short description is available below. The problem specifications are typically not carved into the stone, but they are meant as starting point for a discussion. If the topic does not fit exactly your set of skills or you do not understand its details, do not worry. Get in touch and we will get you the right person to discuss the detail or find an alternative task which fits you better.
+Below is a list of the current topics with short descriptions. The problem specifications are typically not carved into stone. They are meant to be a starting point for discussion. If the topic does not fit your set of skills exactly, or you do not understand its details, don't worry. Let us know and we'll put you in touch with the right person to discuss the details and find an alternate task which may fit you better.
 
-What is the best set of skills? It is almost sure that you will need to learn. It is typically helpful if you have a programming experience, it helps if you can process data. Any background from artificial intelligence, machine learning or data science is also helpful. But necessary is the enthusiasm and will to learn and learn quickly. 
+What is the best set of skills? For starters, it's good to have programming experience, and it helps if you can process data. Any background in artificial intelligence, machine learning, or data science is also beneficial. Even then there will still be lots to learn. With the necessary enthusiasm and a will to learn, you should be able to learn quickly.
 
 For more information, please [contact us](#/contact).
 

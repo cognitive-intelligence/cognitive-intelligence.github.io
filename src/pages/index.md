@@ -23,7 +23,7 @@ Cisco Global Threat Alerts
 
 ### About us
 
-Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cybersecurity company in the world. We are developing complex systems for cyber threats detection using Machine learning and Artificial intelligence.
+Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cybersecurity company in the world. We are developing complex systems for cyber threat detection using machine learning and artificial intelligence.
 
 <div>
     <CardButton filled={true} href="#/about">Prague Team</CardButton>
@@ -39,9 +39,9 @@ Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cyb
 ### News
 
 There is always something new happening at Cisco Cognitive Intelligence.
-Check here for the recent updates. 
+Check here for recent updates. 
 
-#### Updated August 1, 2022
+#### Updated August 25, 2022
 
 <CardButton>What's new</CardButton>
 
@@ -54,7 +54,7 @@ Check here for the recent updates.
 ### Work opportunities
 
 Cisconians work hard — and we reward hard.
-We go beyond the usual benefits with surprising extras we think you'll love.
+We go beyond the usual benefits, with surprising extras we think you'll love.
 
 <CardButton>Open positions</CardButton>
 
@@ -64,8 +64,7 @@ We go beyond the usual benefits with surprising extras we think you'll love.
 
 ### Students 
 
-Put your skills to the test to create technology and experiences
-that’s shaping how the future works.
+Put your skills to the test and create technology and experiences that shape how the future works.
 
 <CardButton>View offers</CardButton>
 
@@ -76,7 +75,7 @@ that’s shaping how the future works.
 
 ### Blog
 
-Please have a look at what Cognitive Intelligence team is blogging about.
+Look at what the Cognitive Intelligence team is blogging about.
 
 
 <CardButton>Get inside</CardButton>
@@ -88,7 +87,7 @@ Please have a look at what Cognitive Intelligence team is blogging about.
 
 ### Selected publications
 
-If you are interested to deep dive to what we are doing, have a look at some of the papers.
+If you're interested in a deep-dive of what we're doing, have a look at some of the papers.
 
 <CardButton>Selected papers</CardButton>
 
@@ -99,8 +98,7 @@ If you are interested to deep dive to what we are doing, have a look at some of 
 ### Contact us
 
 In the center of one of Europe’s most beautiful cities, with a splendid view
-of the ancient Prague castle, just steps away from the Vltava River – sits our
-Cisco Office in Prague.
+of the ancient Prague castle, sits our Cisco Office in Prague, just steps away from the Vltava River.
 
 <CardButton>Get in touch</CardButton>
 
