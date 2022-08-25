@@ -22,9 +22,16 @@ Check here for recent updates.
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working there](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
+### New blog post
+There is a new blog post in our [blogpost section] (https://blogs.cisco.com/tag/cognitive-intelligence) by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks
+
+### OpenAlt conference
+If you are in September 17-18 in Brno, Czech Republic, come to OpenAlt conference to listen the presentation given by our colleague  Tomáš Jirsík about The Modern Cybersecurity (presented from the perspective of the data scientist). The talks at the conference in Czech language. 
+[abstract (in Czech)](https://www.openalt.cz/2022/program_detail.php#event_40).
+
 ### August release notes have been published
 The August 2022 release notes for Global Threat Alerts in Secure Endpoint have been 
-[published here](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_aug-2022.html). Please read more about the new detections, Conti and REvil.
+[published here](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_aug-2022.html). Please read about improved alert workflows and additional threat detection, SocGholish.
 
 ### Machine Learning Prague
 Being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. This year you can meet us at Machine Learning Prague 2022 on May 27-29, 2022 at La Fabrika. Machine Learning Prague is the biggest European conference about machine learning AI and Deep Learning. Read more about 
