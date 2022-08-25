@@ -22,11 +22,11 @@ Check here for recent updates.
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working there](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
-### New blog post
-There is a new blog post in our [blogpost section] (https://blogs.cisco.com/tag/cognitive-intelligence) by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks
+### New blog post about Raspberry Robin
+There is a new blog post in our [blogpost section](https://blogs.cisco.com/tag/cognitive-intelligence) written by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks
 
 ### OpenAlt conference
-If you are in September 17-18 in Brno, Czech Republic, come to OpenAlt conference to listen the presentation given by our colleague  Tomáš Jirsík about The Modern Cybersecurity (presented from the perspective of the data scientist). The talks at the conference in Czech language. 
+If you are in September 17-18 in Brno, Czech Republic, come to OpenAlt conference to listen to the presentation given by our colleague Tomáš Jirsík about The Modern Cybersecurity (presented from the perspective of the data scientist).  
 [abstract (in Czech)](https://www.openalt.cz/2022/program_detail.php#event_40).
 
 ### August release notes have been published
