@@ -20,7 +20,7 @@ Check here for recent updates.
 
 # What's new at Cisco Cognitive Inteligence
 
-For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](hhttps://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
+For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
 ### New blog post about Raspberry Robin
 There is a new blog post in our [blogpost section](https://blogs.cisco.com/tag/cognitive-intelligence) written by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks

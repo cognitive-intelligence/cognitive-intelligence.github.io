@@ -22,13 +22,13 @@ Are you ready to change your life and make the world a better place?
 
 # Universities and students
 
-We have been working with universities and students for many years. We started at the university as COSE - Cognitive Security startup, before being acquired by Cisco in 2013. The character of our work requires continuous improvements. We have many engagements with universities here as well as other research institutions. Our large research team is working on new technologies to improve our threat detections. We need people with a strong theoretical background as well as AI, machine learning, and data processing skills. There are always interesting research topics and engineering tasks to work on.
+We have been working with universities and students for many years. We started at the Czech Technical University as COSE - Cognitive Security startup, before being acquired by Cisco in 2013. The character of our work requires continuous improvements. We have many engagements with universities here as well as other research institutions. Our large research team is working on new technologies to improve our threat detections. We need people with a strong theoretical background as well as AI, machine learning, and data processing skills. There are always interesting research topics and engineering tasks to work on.
 
 Every year we propose a list of topics for MSc and BSc thesis for students. The collaboration with students typically starts with student projects. When both parties find the collaboration interesting, the student typically continues as a part-time Cisco employee. Many former students are now our colleagues at Cisco.
 
 Generally, if one wants to finish the thesis with minimal effort, this would not be the right way to go. But if you want to work on an interesting and challenging task while learning practical skills, this would be a great start to your career!
 
-Below is a list of the current topics with short descriptions. The problem specifications are typically not carved into stone. They are meant to be a starting point for discussion. If the topic does not fit your set of skills exactly, or you do not understand its details, don't worry. Let us know and we'll put you in touch with the right person to discuss the details and find an alternate task which may fit you better.
+Below is a list of the selected topics with short descriptions. The problem specifications are typically not carved into stone. They are meant to be a starting point for discussion. If the topic does not fit your set of skills exactly, or you do not understand its details, don't worry. Let us know and we'll put you in touch with the right person to discuss the details and find an alternate task which may fit you better.
 
 What is the best set of skills? For starters, it's good to have programming experience, and it helps if you can process data. Any background in artificial intelligence, machine learning, or data science is also beneficial. Even then there will still be lots to learn. With the necessary enthusiasm and a will to learn, you should be able to learn quickly.
 
