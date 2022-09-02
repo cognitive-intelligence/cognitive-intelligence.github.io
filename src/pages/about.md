@@ -20,7 +20,7 @@ As the largest enterprise cybersecurity company in the world, we lead the way wi
 
 # Who we are and what we do
 
-We are part of Cisco Security, one of the pillars of the Cisco portfolio. We belong to the Security Platform and Response (SP&R) organization. Our team in Prague consists of about 100 researchers, engineers, and data scientists. We are an international team collaborating with many colleagues around the world. 
+We are part of Cisco Security, one of the pillars of the Cisco portfolio. We belong to the Security Bussiness Group (SBG). Our team in Prague consists of more than 100 researchers, engineers, and data scientists. We are an international team collaborating with many colleagues around the world. 
 
 We are developing complex systems for network cyber threat detection using machine learning and artificial intelligence. We build solutions for detecting threats in customer networks. We analyze network traffic of many millions of devices all over the world to detect suspicious behavior. The research and development process done by our team is end-to-end, from ideas and their prototypes to working products.We cooperate to invent, design, develop, and evaluate innovative models on very-large-scale data. We also design and implement scalable, efficient, and automated machine learning pipelines. We contribute our technology to several Cisco Security products.
   

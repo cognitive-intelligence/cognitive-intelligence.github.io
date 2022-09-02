@@ -23,7 +23,7 @@ Cisco Global Threat Alerts
 
 ### About us
 
-Cisco Cognitive Intelligence is part of Cisco Secure, the largest enterprise cybersecurity company in the world. We are developing complex systems for cyber threat detection using machine learning and artificial intelligence.
+Cisco Cognitive Intelligence is a part of Cisco Secure, the largest enterprise cybersecurity company in the world. We are developing complex systems for cyber threat detection using machine learning and artificial intelligence.
 
 <div>
     <CardButton filled={true} href="#/about">Prague Team</CardButton>
