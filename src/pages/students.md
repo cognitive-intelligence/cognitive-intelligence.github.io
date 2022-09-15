@@ -80,7 +80,7 @@ For more information, please [contact us](#/contact).
 Requirements: Ideally knowledge of Python tools like Jupyter/Hub, Dask, Pytorch; optionaly: Spark, Hadoop.
 
 [_Index of thesis_](#/students/Indexofthesis)
-ß
+
 ---
 
 <a name="Researchtopics"></a>
