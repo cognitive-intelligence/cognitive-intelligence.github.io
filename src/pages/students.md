@@ -44,7 +44,8 @@ For more information, please [contact us](#/contact).
 
 <br/>
 
-- [Tool for assisted evaluation of security engine's efficacy](#/students/)
+- [Tool for assisted evaluation of security engine's efficacy](#/students/ToolForAssistedEvaluation)
+- [Improving cloud infrastructure](#/students/Improvingcloudinfrastructure)
 - [Regexp generation from examples](#/students/ToolForAssistedEvaluation)
 - [Learning from multi-modal data using graph based approaches](#/students/Learningfrommultimodaldatausinggraphbasedapproaches)
 - [Network asset detection (and service description)](#/students/Networkassetdetectionandservicedescription)
@@ -71,6 +72,15 @@ For more information, please [contact us](#/contact).
 
 [_Index of thesis_](#/students/Indexofthesis)
 
+<a name="Improvingcloudinfrastructure"></a>
+
+##### Improving cloud infrastructure
+
+> In team of other engineers improve AWS cloud infrastructure. Work on deployed services to be more performant and efficient. Improve scripts to deploy infrastructure and explore new services provided by AWS. Daily usage tools: Terraform, Python, Kotlin; occasionally/optionally: Scala, Java, ansible
+Requirements: Ideally knowledge of Python tools like Jupyter/Hub, Dask, Pytorch; optionaly: Spark, Hadoop.
+
+[_Index of thesis_](#/students/Indexofthesis)
+ß
 ---
 
 <a name="Researchtopics"></a>
