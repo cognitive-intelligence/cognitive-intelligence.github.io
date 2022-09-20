@@ -23,7 +23,7 @@ Check here for recent updates.
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
 ### OpenAlt 2022 - The Modern Cybersecurity
-If you missed the talk: The Modern Cybersecurity, presented from the perspective of the data scientist, you can still [replay it](https://youtu.be/u2nKV4l6jqU?t=12073) in Czech or read the[abstract](https://www.openalt.cz/2022/program_detail.php#event_40) (in Czech).
+If you missed the talk: The Modern Cybersecurity, presented from the perspective of the data scientist, you can still [replay it](https://youtu.be/u2nKV4l6jqU?t=12073) or read the [abstract](https://www.openalt.cz/2022/program_detail.php#event_40) (in Czech).
 
 ### Tech Meet-up: Modern Cloud Technologies and Best Practices
 Please join us at the [Technical Meet-up](https://www.czechitas.cz/kurzy/tech-meetup-moderni-cloudove-technologie-a-best-practices-modern-cloud-technologies-and-best-practices) in October 10, 18:00-21:00.  We will discuss cloud technologies used in Cisco, speak about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications.
