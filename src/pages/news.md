@@ -22,15 +22,15 @@ Check here for recent updates.
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
+### OpenAlt conference
+If you missed the talk of Tomáš Jirsík at OpenAlt conference about The Modern Cybersecurity (presented from the perspective of the data scientist), you can still [replay it](https://youtu.be/u2nKV4l6jqU?t=12073).
+[abstract (in Czech)](https://www.openalt.cz/2022/program_detail.php#event_40).
+
 ### Tech Meet-up: Modern Cloud Technologies and Best Practices
 Please join us at the [Technical Meet-up](https://www.czechitas.cz/kurzy/tech-meetup-moderni-cloudove-technologie-a-best-practices-modern-cloud-technologies-and-best-practices) in October 10, 18:00-21:00.  We will discuss cloud technologies used in Cisco, speak about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications.
 
 ### New blog post about Raspberry Robin
 There is a new blog post in our [blogpost section](https://blogs.cisco.com/tag/cognitive-intelligence) written by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks.
-
-### OpenAlt conference
-If you are in September 17-18 in Brno, Czech Republic, come to OpenAlt conference to listen to the presentation given by our colleague Tomáš Jirsík about The Modern Cybersecurity (presented from the perspective of the data scientist).  
-[abstract (in Czech)](https://www.openalt.cz/2022/program_detail.php#event_40).
 
 ### August release notes have been published
 The August 2022 release notes for Global Threat Alerts in Secure Endpoint have been 
