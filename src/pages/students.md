@@ -50,6 +50,7 @@ For more information, please [contact us](#/contact).
 - [Learning from multi-modal data using graph based approaches](#/students/Learningfrommultimodaldatausinggraphbasedapproaches)
 - [Network asset detection (and service description)](#/students/Networkassetdetectionandservicedescription)
 - [Unsupervised identification of suspicious device actions](#/students/Unsupervisedidentificationofsuspiciousdeviceactions)
+- [Induction of regular languages for behavioural malware descriptions](#/students/Inductionofregularlanguagesforbehaviouralmalwaredescriptions)
 - [Recommendation system for security alerts](#/students/Recommendationsystemforsecurityalerts)
 - [Self-supervised learning in cybersecurity](#/students/Selfsupervisedlearningincybersecurity)
 - [Learning parameters of detector ensemble from data with limited labels](#/students/Learningparametersofdetectorensemblefromdatawithlimitedlabels)
@@ -119,11 +120,23 @@ Requirements: Ideally knowledge of Python tools like Jupyter/Hub, Dask, Pytorch;
 
 ##### Unsupervised identification of suspicious device actions
 
+> Current device-oriented IDS/IPS systems model device actions individually. Example of such monitored activity is protocol burst - IDS/IPS system detects a sudden burst of communication to specific port which was used occasionally in the past. On the higher level of abstraction, we would like to describe device standart behaviour by complex descriptions, e.g. turns on between 7am and 8am, uses 80% https, 10% dns, heavy use of Microsoft Office apps, etc.. Propose an anomaly detection on top of evolution of high level behaviours. Part of work contains design of fresh new features, which extend standard device behaviour patterns and enable higher precision in anomaly detection.
+
+[_Index of thesis_](#/students/Indexofthesis)
+
+<a name="Inductionofregularlanguagesforbehaviouralmalwaredescriptions"></a>
+
+##### Induction of regular languages for behavioural malware descriptions
+
+> In the world of multiple IDS/IPS systems monitoring each asset in the enterprise environment, we may build a language describing the malicious activity with the atoms representing the IDS/IPS observations. Such language based description has many needed properties in comparison to standard ML methods - mainly high explainability, which is the preferred property among most threat analysts. Propose an algorithm for data-based induction of malware descriptions.
+
 [_Index of thesis_](#/students/Indexofthesis)
 
 <a name="Recommendationsystemforsecurityalerts"></a>
 
 ##### Recommendation system for security alerts
+
+> Current size of enterprise environments and the limited amount of threat research specialists leads to a situation, when threat response teams must prioritise and properly handle only a portion of all incoming security alerts. Prioritization is done by each response team and is based on multiple factor which are hidden for us - we may only assume it is based on alert severity, expertise level of threat response team or specific environment setup and used technologies. Propose per customer recommendation system based on customer feedback. Explore a possibility of per industry/expert level prioritisation. 
 
 [_Index of thesis_](#/students/Indexofthesis)
 
