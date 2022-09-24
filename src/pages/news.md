@@ -22,6 +22,10 @@ Check here for recent updates.
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
+### 16th ECSA 2022 - Software Architecture in the age of Cloud Computing
+The [slides and abstract](https://www.slideshare.net/jgergic/software-architecture-in-the-age-of-cloud-computing) of the keynote: _Software Architecture in the age of Cloud Computing_  presented by [Jaroslav Gergič](https://www.slideshare.net/jgergic) at  [16th European Conference on Software Architecture](https://www.h-cloud.eu/event/16th-european-conference-on-software-architecture/) are now available below.  
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cWsehTmsCKYFCb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
 ### OpenAlt 2022 - The Modern Cybersecurity
 If you missed the talk _The Modern Cybersecurity, presented from the perspective of the data scientist_, you can still [replay](https://youtu.be/u2nKV4l6jqU?t=12073) it or read the [abstract](https://www.openalt.cz/2022/program_detail.php#event_40) (in Czech).
 
