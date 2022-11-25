@@ -18,9 +18,22 @@ Check here for recent updates.
 
 <Section>
 
+
 # What's new at Cisco Cognitive Inteligence
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
+
+### Recording of the Tech Meet-up: Modern Cloud Technologies and Best Practices
+[Recording](https://youtu.be/bPiTuTfYM_w) of the Tech Meet-up: Modern Cloud Technologies and Best Practices presented by our colleagues Bogdan Dimitriu, Anna Galkina and Michal Stanke is now publicly available.
+It is about cloud technologies used in Cisco, about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications. The meetup was orginezed in collaboration with Czechitas.
+
+### August release notes have been published
+[The October 2022 release notes](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_oct-2022.html) for Global Threat Alerts in Secure Endpoint have been 
+published. Please read about threat catalog, downloading threat details as well as about additional threat detections - M0yv and Metamorfo.
+
+### Platform for research and innovation in cyber and information security 
+**Platform for research and innovation in cyber and information security** by the NUKIB (National Cyber and Information Security Agency of the Czech Republic), where we participated, is out. The press release (in Czech) can be found [here](https://www.nukib.cz/cs/infoservis/aktuality/1891-v-brne-se-setkali-clenove-platformy-k-vyzkumu-a-vyvoji-v-kyberneticke-a-informacni-bezpecnosti/)
+
 
 ### 16th ECSA 2022 - Software Architecture in the age of Cloud Computing
 The [slides and abstract](https://www.slideshare.net/jgergic/software-architecture-in-the-age-of-cloud-computing) of the keynote: _Software Architecture in the age of Cloud Computing_  presented by [Jaroslav Gergič](https://www.slideshare.net/jgergic) at  [16th European Conference on Software Architecture](https://www.h-cloud.eu/event/16th-european-conference-on-software-architecture/) are now available below.  
@@ -29,15 +42,8 @@ The [slides and abstract](https://www.slideshare.net/jgergic/software-architectu
 ### OpenAlt 2022 - The Modern Cybersecurity
 If you missed the talk _The Modern Cybersecurity, presented from the perspective of the data scientist_, you can still [replay](https://youtu.be/u2nKV4l6jqU?t=12073) it or read the [abstract](https://www.openalt.cz/2022/program_detail.php#event_40) (in Czech).
 
-### Tech Meet-up: Modern Cloud Technologies and Best Practices
-Please join us at the [Technical Meet-up](https://www.czechitas.cz/kurzy/tech-meetup-moderni-cloudove-technologie-a-best-practices-modern-cloud-technologies-and-best-practices) in October 10, 18:00-21:00.  We will discuss cloud technologies used in Cisco, speak about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications.
-
 ### New blog post about Raspberry Robin
 There is a new blog post in our [blogpost section](https://blogs.cisco.com/tag/cognitive-intelligence) written by Onur Mustafa Erdogan: Raspberry Robin: Highly Evasive Worm Spreads over External Disks.
-
-### August release notes have been published
-The August 2022 release notes for Global Threat Alerts in Secure Endpoint have been 
-[published here](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_aug-2022.html). Please read about improved alert workflows and additional threat detection, SocGholish.
 
 ### Machine Learning Prague
 Being an active part of the local professional Machine Learning community, we have been partners of the "Machine Learning Prague" conference for many years. This year you can meet us at Machine Learning Prague 2022 on May 27-29, 2022 at La Fabrika. Machine Learning Prague is the biggest European conference about machine learning AI and Deep Learning. Read more about 
