@@ -41,13 +41,13 @@ Cisco Cognitive Intelligence is a part of Cisco Secure, the largest enterprise c
 There is always something new happening at Cisco Cognitive Intelligence.
 Check here for recent updates. 
 
-#### Updated November 25, 2022
+#### Updated November 27, 2022
 
 <CardButton>What's new</CardButton>
 
 
 </Card>
-
+ß
 
 <Card img="img/card-2.jpg" href="#/jobs">
 
