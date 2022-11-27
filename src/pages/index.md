@@ -47,7 +47,6 @@ Check here for recent updates.
 
 
 </Card>
-ß
 
 <Card img="img/card-2.jpg" href="#/jobs">
 
