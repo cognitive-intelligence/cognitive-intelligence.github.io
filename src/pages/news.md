@@ -27,7 +27,7 @@ For technical news, please look at the Cisco Cognitive Intelligence [blog posts]
 [Recording](https://youtu.be/bPiTuTfYM_w) of the Tech Meet-up: Modern Cloud Technologies and Best Practices presented by our colleagues Bogdan Dimitriu, Anna Galkina and Michal Stanke is now publicly available.
 It is about cloud technologies used in Cisco, about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications. The meetup was orginezed in collaboration with Czechitas.
 
-### August release notes have been published
+### October release notes have been published
 [The October 2022 release notes](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_oct-2022.html) for Global Threat Alerts in Secure Endpoint have been 
 published. Please read about threat catalog, downloading threat details as well as about additional threat detections - M0yv and Metamorfo.
 
