@@ -23,13 +23,29 @@ Check here for recent updates.
 
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
+
+### Come to meet with us at the university job fairs?
+We will be attending two job fairs in March and April:
+
+[Kariérní dny FS a FEL ČVUT](https://www.karierni-dny-fs-fel.cvut.cz), CVUT, March 28 and 29, 2023,
+
+[Dny firem na Matfyzu 2023](https://dnyfirem.matfyz.cz/pro-studenty), Mathematics and Physics Charles University April 26.–27, 2023 
+
+
+### Cooperation with universities
+We signed again cooperation agreement with Faculty of Mathematics and Physics Charles University and sponsorship agreement with Czech Technical University in Prague, Faculty of Information Technology. We are looking for further collaboration.
+
+### Digital Academy of Cyber Security
+We are working together with Czechitas on creating a new educational program Digital Academy of Cyber Security.
+[Read more in this LinkedIn post.](https://www.linkedin.com/posts/czechitas_cognitiveintelligence-ciscosecure-womenintech-activity-7022140573281067008-Ozsv/)
+
+### January release notes have been published
+[The January 2023 release notes](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_jan-2023.html) for Global Threat Alerts in Secure Endpoint have been 
+published. Please read about about additional threat detections - GootLoader, Laplas Clipper, Neoreklamiand Rhadamanthys.
+
 ### Recording of the Tech Meet-up: Modern Cloud Technologies and Best Practices
 [Recording](https://youtu.be/bPiTuTfYM_w) of the Tech Meet-up: Modern Cloud Technologies and Best Practices presented by our colleagues Bogdan Dimitriu, Anna Galkina and Michal Stanke is now publicly available.
 It is about cloud technologies used in Cisco, about a concept of big data and security of big data in cloud and about effective testing of UI cloud applications. The meetup was orginezed in collaboration with Czechitas.
-
-### October release notes have been published
-[The October 2022 release notes](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_oct-2022.html) for Global Threat Alerts in Secure Endpoint have been 
-published. Please read about threat catalog, downloading threat details as well as about additional threat detections - M0yv and Metamorfo.
 
 ### Platform for research and innovation in cyber and information security 
 **Platform for research and innovation in cyber and information security** by the NUKIB (National Cyber and Information Security Agency of the Czech Republic), where we participated, is out. The press release (in Czech) can be found [here](https://www.nukib.cz/cs/infoservis/aktuality/1891-v-brne-se-setkali-clenove-platformy-k-vyzkumu-a-vyvoji-v-kyberneticke-a-informacni-bezpecnosti/)
