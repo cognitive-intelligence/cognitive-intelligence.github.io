@@ -24,13 +24,12 @@ Check here for recent updates.
 For technical news, please look at the Cisco Cognitive Intelligence [blog posts](https://blogs.cisco.com/tag/cognitive-intelligence). Also check out the non-technical blogs, such as about our [site in Prague](https://blogs.cisco.com/wearecisco/getting-to-know-cisco-prague) and an experience of [working here](https://blogs.cisco.com/wearecisco/how-cisco-boosted-my-confidence).
 
 
-### Come to meet with us at the university job fairs?
+### Come to meet with us at the university job fairs
 We will be attending two job fairs in March and April:
 
-[Kariérní dny FS a FEL ČVUT](https://www.karierni-dny-fs-fel.cvut.cz), CVUT, March 28 and 29, 2023,
+[Career days of FS a FEL ČVUT](https://www.karierni-dny-fs-fel.cvut.cz), CVUT, March 28 and 29, 2023,
 
-[Dny firem na Matfyzu 2023](https://dnyfirem.matfyz.cz/pro-studenty), Mathematics and Physics Charles University April 26.–27, 2023 
-
+[Company days on Matfyz 2023](https://dnyfirem.matfyz.cz/pro-studenty), MFF UK, April 26.–27, 2023 
 
 ### Cooperation with universities
 We signed again cooperation agreement with Faculty of Mathematics and Physics Charles University and sponsorship agreement with Czech Technical University in Prague, Faculty of Information Technology. We are looking for further collaboration.
@@ -41,7 +40,7 @@ We are working together with Czechitas on creating a new educational program Dig
 
 ### January release notes have been published
 [The January 2023 release notes](https://www.cisco.com/c/en/us/td/docs/security/amp/endpoints/global-threat-alerts-in-secure-endpoint/m_jan-2023.html) for Global Threat Alerts in Secure Endpoint have been 
-published. Please read about about additional threat detections - GootLoader, Laplas Clipper, Neoreklamiand Rhadamanthys.
+published. Please read about additional threat detections - GootLoader, Laplas Clipper, Neoreklami and Rhadamanthys.
 
 ### Recording of the Tech Meet-up: Modern Cloud Technologies and Best Practices
 [Recording](https://youtu.be/bPiTuTfYM_w) of the Tech Meet-up: Modern Cloud Technologies and Best Practices presented by our colleagues Bogdan Dimitriu, Anna Galkina and Michal Stanke is now publicly available.
